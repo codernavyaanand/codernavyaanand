@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @codernavyaanand
-- 👀 I’m interested in Computer, Art & Reading
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on new technologies and open source software
+- 👋 Hi, I’m Navya Anand, and a lovebird for art, swimming and music
+- Python - Java - AI
 
 <!---
 codernavyaanand/codernavyaanand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
